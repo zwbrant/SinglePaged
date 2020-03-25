@@ -1,0 +1,22 @@
+  .project-div {
+    height: 340px;
+	background: rgba(0, 151, 19, 0.4);
+    display: flex;
+    align-items: center;
+  }
+
+  .fa-stack-1x {
+  	margin-top: -13px;
+  	  	margin-left: -0px;
+
+  }
+
+  .project-text {
+  	background: yellow;
+  	width: 68%;
+  }
+
+  .project-image {
+  	background: blue;
+  	width: 32%;
+  }
