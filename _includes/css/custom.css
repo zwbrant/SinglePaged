@@ -1,22 +1,69 @@
   .project-div {
-    height: 340px;
-	background: rgba(0, 151, 19, 0.4);
-    display: flex;
-    align-items: center;
+  	background: rgba(0, 151, 19, 0.0);
+  	display: flex;
+  	align-items: center;
+  	padding: 23px 0px;
   }
 
   .fa-stack-1x {
   	margin-top: -13px;
-  	  	margin-left: -0px;
+  	margin-left: -0px;
 
   }
 
   .project-text {
-  	background: yellow;
-  	width: 68%;
+    padding: 15px 28px;
+    width:  65%;
+    /*  	border: 2px solid gray; */ 
   }
 
   .project-image {
-  	background: blue;
-  	width: 32%;
-  }
+   width: 35%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   border: 3px solid #f1f1f1;
+   border-radius: 8px;
+ }
+
+ .project-div h4 {
+   text-align: left;
+   /*font-weight: bold;*/
+ }
+
+ .project-div h5 {
+   text-align: left;
+   /* font-weight: bold;*/
+ }
+
+ .project-subtitle {
+   padding: 0 5%;
+ }
+
+ .project-div h3, .project-div h4,  .project-div h5,  .project-div h6 {
+  margin-bottom: 9px;
+}
+
+.project-div .project-text p {
+ margin: 14px 0px;
+}
+
+.project-div img {
+  border-radius: 4px;
+}
+
+.project-div li {
+  margin-bottom: 8px;
+}
+
+
+.intro-title h1, .intro-title h2, .intro-title h3  {
+  text-align: center;
+  padding: 0 7%;
+}
+
+.intro-video {
+  margin: 60px auto !important;
+  display: block !important;
+  float: none !important; 
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}

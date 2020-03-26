@@ -1,0 +1,53 @@
+I"O<div class="project-div">
+
+	
+	<div class="project-text">
+
+		<h3>Ancient Angler</h3>
+
+		<div class="project-subtitle">
+			<h5>VR game, personal project</h5>
+			<h5>Ongoing</h5>
+		</div>
+
+		<p class="hotdog"> 
+			&nbsp;&nbsp;&nbsp;&nbsp;This is some kind of sentence, I suppose. Departamento de Informática a programar o melhor bot que conseguires  de <br />&nbsp;&nbsp;&nbsp;&nbsp;Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições. 
+		</p>
+
+		<ul>
+			<li>Coffee</li>
+			<li>Tea</li>
+			<li>Milk</li>
+		</ul> 
+
+	</div>
+
+
+	<div class="project-image">
+		<img src="img/screenshot-1c.png" alt="CeSIUM Hackathon" title="" style="" />
+	</div>
+
+
+</div>
+
+<div class="project-div">
+
+
+	<div class="project-image">
+		<img src="img/screenshot-1.png" alt="CeSIUM Hackathon" title="" style="" />
+	</div>
+	
+	<div class="project-text">
+
+		<h4 style="text-align: center;">Ancient Angler</h4>
+		<p> 
+			A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições. 
+			A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições. 
+
+		</p>
+
+	</div>
+
+
+</div>
+:ET

@@ -1,0 +1,95 @@
+I"A
+<div class="project-div">
+
+	
+	<div class="project-text">
+
+		<h2>Ancient Angler</h2>
+
+		<div class="project-subtitle">
+			<h5 style="margin-bottom: 0px">VR game - personal project</h5>
+			<h5>Ongoing</h5>
+		</div>
+
+		<p class="hotdog"> 
+			&nbsp;&nbsp;&nbsp;&nbsp;This is some kind of sentence, I suppose. Departamento de Informática a programar o melhor bot que conseguires  de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. 
+		</p>
+
+		<ul>
+			<li>ramar o melhor bot que conseguires de Infor</li>
+			<li>nseguires. O vencedor terá direito a um</li>
+			<li>programar o melhor bot que conseguires  de Informática </li>
+		</ul> 
+
+	</div>
+
+
+	<div class="project-image">
+		<img src="img/screenshot-1c.png" alt="CeSIUM Hackathon" title="" style="" />
+	</div>
+
+
+</div>
+
+<div class="project-div">
+
+	<div class="project-image">
+		<img src="img/screenshot-2.png" alt="CeSIUM Hackathon" title="" style="" />
+	</div>
+	
+	<div class="project-text">
+
+		<h2>Drako's Chain</h2>
+
+		<div class="project-subtitle">
+			<h5 style="margin-bottom: 0px">VR game - personal project</h5>
+			<h5>Ongoing</h5>
+		</div>
+
+		<p class="hotdog"> 
+			&nbsp;&nbsp;&nbsp;&nbsp;This is some kind of sentence, I suppose. Departamento de Informática a programar o melhor bot que conseguires  de <br />&nbsp;&nbsp;&nbsp;&nbsp;Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições. 
+		</p>
+
+		<ul>
+			<li>guires  de Informática</li>
+			<li>uires. O vencedor terá direito a um prémio! O almoço e coffee break</li>
+			<li>a programar o melhor bot</li>
+		</ul> 
+
+	</div>
+
+</div>
+
+<div class="project-div">
+
+	
+	<div class="project-text">
+
+		<h2>Ancient Angler</h2>
+
+		<div class="project-subtitle">
+			<h5 style="margin-bottom: 0px">VR game - personal project</h5>
+			<h5>Ongoing</h5>
+		</div>
+
+		<p class="hotdog"> 
+			&nbsp;&nbsp;&nbsp;&nbsp;This is some kind of sentence, I suppose. Departamento de Informática a programar o melhor bot que conseguires  de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. 
+		</p>
+
+		<ul>
+			<li>ramar o melhor bot que conseguires de Infor</li>
+			<li>nseguires. O vencedor terá direito a um</li>
+			<li>programar o melhor bot que conseguires  de Informática </li>
+		</ul> 
+
+	</div>
+
+
+	<div class="project-image">
+		<img src="img/spideyShowoff.gif" alt="CeSIUM Hackathon" title="" style="" />
+	</div>
+
+
+</div>
+
+:ET
